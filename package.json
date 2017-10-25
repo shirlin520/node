@@ -1,0 +1,21 @@
+{
+  "name": "shirlin",
+  "version": "1.0.0",
+  "description": "myfristnode",
+  "main": "server.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "no",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shirlin520/node.git"
+  },
+  "keywords": [
+    "first"
+  ],
+  "author": "shirlin",
+  "license": "ISC"
+}
